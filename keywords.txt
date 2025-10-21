@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For MBusinoLib
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+DLMSCOSEMLIB KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+getError KEYWORD2
+decode KEYWORD2
+getDeviceClass KEYWORD2
+getStateClass KEYWORD2
+_getObisCode KEYWORD2
+_getCodeUnits KEYWORD2
+_getCodeName KEYWORD2  
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+TYPE_UNKNOWN
+TYPE_VOLTAGE_L1
+TYPE_VOLTAGE_L2
+TYPE_VOLTAGE_L3
+TYPE_CURRENT_L1
+TYPE_CURRENT_L2
+TYPE_CURRENT_L3
+TYPE_POWER_FACTOR
+TYPE_ACTIVE_POWER_PLUS
+TYPE_ACTIVE_POWER_MINUS
+TYPE_ACTIVE_ENERGY_PLUS
+TYPE_ACTIVE_ENERGY_MINUS 
+TYPE_REACTIVE_ENERGY_PLUS
+TYPE_REACTIVE_ENERGY_MINUS 
+
+
