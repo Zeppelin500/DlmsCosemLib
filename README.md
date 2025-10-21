@@ -53,9 +53,7 @@ Example JSON output:
 ```
 [
 {
-    "value_scaled": 22.06,
-    "units": "C",
-    "name": "external_temperature_min"
+tbd
   },
 ]
 ```
