@@ -82,9 +82,6 @@ only contained records will be sended
 * **["meterNumber"]** countains the serial Number of the meter
 * **["timestamp"]** countains the timestamp of the records
 
-There are more records available but you have to delete the out comment in the library.
-
-
 
 ### Method: `getError`
 
